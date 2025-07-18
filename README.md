@@ -3,3 +3,4 @@ Using a convolutional neural network (CNN), EEG data from individuals with ASD a
 
 
 ![image](https://github.com/BiAs13145/ASD_BCI_Recognition/blob/main/asd1.jpg)
+![image](https://github.com/BiAs13145/ASD_BCI_Recognition/blob/main/norm1a.jpg)
